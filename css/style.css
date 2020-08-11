@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+font-family: 'Rubik', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+
+
+
+html {
+background-image: url(/képek/háttér.png);
+
+}
+
+body {
+    background-image: url(/képek/háttér.png);
+    
+    }
+
+
+    h1 {
+
+        color: rgb(255, 255, 255);
+        font-family: 'Rubik', sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
+        text-align: center;
+    }
+
+    p {
+
+        color: rgb(255, 254, 254);
+        font-family: 'Rubik', sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
+        text-align: center;
+        font-weight: 900;
+        margin-bottom: 60px;
+        border: solid whitesmoke;
+    }
+
+span{
+
+    
+    color: rgb(255, 254, 254);
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    margin-bottom: 60px;  
+}
+.fehér {
+    color: white;
+}
+
+fieldset {
+    color: white;
+    display: block;
+    margin-left: px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+  }
